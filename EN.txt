@@ -1,5 +1,5 @@
 cmdType,cmdSignature,text
-text,0001 The Judge (tuto):1:4,"This is the battle screen!!!.
+text,0001 The Judge (tuto):1:4,"This is the battle screen.
 As you can see, you will
 find yourself placed on the 
 right side of the screen. "
@@ -8407,7 +8407,7 @@ text,OWMOptionsCategoryLabel,options
 text,OWMQuitCategoryLabel,quit
 text,OWMLanguageOptLabel,Language
 text,OWMPixelScalingOptLabel,Window Scaling
-text,OWMPillarArtOptLabel,Pillarbox Artt필러박스
+text,OWMPillarArtOptLabel,Pillarbox Art
 text,OWMResolutionOptLabel,Resolution
 text,OWMVolumeCategoryOptLabel,Volume
 text,OWMVolMasterSliderOptLabel,Master
@@ -9631,7 +9631,7 @@ text,CombatSelection:Auto,Auto
 text,CombatSelection:Manual:Description,In combat: No automatic action.
 text,CombatSelection:Auto:Description,In combat: Automatically select ready players.
 text,OWMLanguageOptDescription,language langue lenguaje sprache lingua
-text,OWMCombatSpeedOptDescription,Change the speed of combat!! 전투 속도를 변경한다.
+text,OWMCombatSpeedOptDescription,Change the speed of combat.
 text,OWMPillarArtOptDescription,Change the border artwork.
 text,OWMVolMasterSliderOptDescription,Change the overall volume.
 text,OWMVolBGMSliderOptDescription,Change the music volume.
@@ -9646,7 +9646,7 @@ text,Locale:Italian:Description,Italian Italien Italiano Italiano Italienisch
 text,Locale:Spanish:Description,Spanish Espagnol Spagnolo Español Spanisch
 text,ScreenScaling:PixelPerfect:Description,Game window is pixel perfect on your screen.
 text,ScreenScaling:FillScreen:Description,Maximizes game window.
-text,OWMStartGameOptLabel,Start Gamee
+text,OWMStartGameOptLabel,Start Game
 text,OWMBackOptLabel,Back
 text,Battle:Status:Muted:CompetenceMainMenuTakeover,(muted)
 text,Battle:Status:Vilified:CompetenceMainMenuTakeover,(vilified)
